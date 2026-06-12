@@ -1,0 +1,6 @@
+{
+  "name": "Antview Technologies",
+  "description": "Official agency portal and interactive CTO Selection Challenge platform for Antview Technologies & Quantum Labs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
